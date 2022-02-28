@@ -1,0 +1,11 @@
+nav {
+    background-color: rgb(23, 6, 65);
+    display: flex;
+    justify-content: space-between;
+    max-height: 80px;
+}
+nav img {
+    height: 50px;
+    width: 50px;
+    margin: 30px 100px;
+}
